@@ -4,7 +4,7 @@
 
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/sdaigo/my-stack)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=sdaigo&hide=css,html,mdx
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdaigo&hide=css,html,mdx&layout=compact)
 
 <!--
 **sdaigo/sdaigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
