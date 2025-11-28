@@ -2,7 +2,7 @@
 
 [Profile](https://sdaigo.github.io)
 
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/sdaigo/my-stack)
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/daigo3/my-stack)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdaigo&hide=css,html,mdx&layout=compact)
 
